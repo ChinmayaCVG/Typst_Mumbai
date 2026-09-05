@@ -1,1 +1,2 @@
-This is a test. how is it working
+05.09.2026 - Saturday
+Setting up the VSStudio Typst
